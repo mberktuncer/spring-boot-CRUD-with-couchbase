@@ -3,6 +3,6 @@ spring:
     couchbase:
       host: 127.0.0.1
       bucket:
-        username: Administrator
-        password: Berk.99sg
-        name: Demo
+        username: YourCouchBaseUsername
+        password: YourPassword
+        name: YourBucketName
